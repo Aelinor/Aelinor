@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aelinor
+- 👀 I’m interested in coding, gaming and sf
+- 🌱 I’m currently learning typescript, angular, node
+- 📫 How to reach me ... (...)
